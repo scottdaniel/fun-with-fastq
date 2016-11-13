@@ -94,3 +94,5 @@ ENV/
 .fa
 .fq
 .fastq
+fastq\/
+fastq*
